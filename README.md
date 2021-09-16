@@ -1,8 +1,7 @@
-An Approach to Optimize Device Power Performance Towards Energy Efficient Next Generation 5G Networks
 
-A Thermal Aware Approach to Enhance 5G Device Performance and Reliability in mmWave Networks
+# 5G , NR , LTE , mmWave , Smartphone , Battery , Power Optimization , Energy Efficiency , Network Efficiency, 5G NR , mmWave , Smartphone , Thermal , Device Temperature , User Equipment , Battery , Network Efficiency , Load Balancing , 3GPP , Power Efficiency , Green Energy
 
-If you use this dataset and code or any herein modified part of it in any publication, please cite the papers:
+## If you use this dataset and code or any herein modified part of it in any publication, please cite the papers:
 
 A. Thantharate, C. Beard and S. Marupaduga, "An Approach to Optimize Device Power Performance Towards Energy Efficient Next Generation 5G Networks," 2019 IEEE 10th Annual Ubiquitous Computing, Electronics & Mobile Communication Conference (UEMCON), 2019, pp. 0749-0754, doi: 10.1109/UEMCON47517.2019.8993067.
 
